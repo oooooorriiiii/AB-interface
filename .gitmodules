@@ -1,0 +1,6 @@
+[submodule "ARGoS-module"]
+	path = ARGoS-module
+	url = git@github.com:oooooorriiiii/AB-interface-ARGoS-module.git
+[submodule "Blockchain-module"]
+	path = Blockchain-module
+	url = git@github.com:oooooorriiiii/AB-interface-Blockchain-module.git
